@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "For all our bakcend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FastHealth/Backend.git"
+  },
+  "author": "Sunday Abam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FastHealth/Backend/issues"
+  },
+  "homepage": "https://github.com/FastHealth/Backend#readme"
+}
